@@ -30,13 +30,5 @@ $cache = new Config(
             'adapter' => 'file',
             'path'    => PATH_CACHE . 'registry',
         ],
-        'output'   => [
-            'adapter' => 'file',
-            'path'    => PATH_CACHE . 'output',
-        ],
-        'images'   => [
-            'adapter' => 'file',
-            'path'    => PATH_CACHE . 'images',
-        ],
     ]
 );
