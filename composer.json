@@ -1,5 +1,5 @@
 {
-    "name": "o2system/webcli",
+    "name": "o2system/carbon",
     "description": "O2System Framework Command Line Interface Application Boilerplate.",
     "keywords": ["framework", "o2system"],
     "license": "MIT",
