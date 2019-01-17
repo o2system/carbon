@@ -5,14 +5,11 @@
 
 <div align="center" markdown="1">
 
-[![Build Status](https://travis-ci.org/turahe/carbon.svg?branch=turahe)](https://travis-ci.org/turahe/carbon)
-
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/turahe/carbon/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/turahe/carbon/?branch=master)
-
+[![Build Status](https://travis-ci.org/o2system/carbon.svg?branch=master)](https://travis-ci.org/o2system/carbon)
+[![Build Status](https://scrutinizer-ci.com/g/o2system/carbon/badges/build.png?b=master)](https://scrutinizer-ci.com/g/o2system/carbon/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/o2system/carbon/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/o2system/carbon/?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/o2system/carbon/v/stable)](https://packagist.org/packages/o2system/hydro)
-
 [![Total Downloads](https://poser.pugx.org/o2system/carbon/downloads)](https://packagist.org/packages/o2system/hydro)
-
 [![License](https://poser.pugx.org/o2system/carbon/license)](https://packagist.org/packages/o2system/hydro)
 
 </div>
