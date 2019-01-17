@@ -25,3 +25,7 @@
 |   $services[ 'foo' ] = new App\Libraries\Foo( 'bar' );
 |
 */
+
+$services = [
+	//'foo' => 'App\Libraries\Foo'
+];
