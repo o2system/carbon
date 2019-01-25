@@ -14,7 +14,7 @@ namespace App\Commanders;
 
 // ------------------------------------------------------------------------
 
-use O2System\Kernel\Cli\Commander;
+use App\Cli\Commander;
 
 /**
  * Class Hello

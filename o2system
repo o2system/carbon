@@ -39,7 +39,7 @@ $welcomeNote = <<<WELCOME_NOTE
                  |__/
 WELCOME_NOTE;
 
-$cliApp = new O2System\Framework\Cli\App();
+$cliApp = new O2System\Reactor\Cli\App();
 $cliApp
     ->setWelcomeNote( ( new \O2System\Kernel\Cli\Writers\Text )
         ->setContextualClass( \O2System\Kernel\Cli\Writers\Text::DANGER )
@@ -47,6 +47,6 @@ $cliApp
     )
     ->setName( FRAMEWORK_NAME )
     ->setVersion( FRAMEWORK_VERSION )
-    ->setCommandersNamespace( '\O2System\Framework\Cli\Commanders' )
-    ->setCommandersPath( PATH_FRAMEWORK . 'Cli/Commanders' )
+    ->setCommandersNamespace( '\O2System\Reactor\Cli\Commanders' )
+    ->setCommandersPath( PATH_REACTOR . 'Cli/Commanders' )
     ->run();

@@ -32,7 +32,7 @@ $welcomeNote = <<<WELCOME_NOTE
   \___|\___/|_||_| /__/\___/|_|\___|
 WELCOME_NOTE;
 
-$cliApp = new O2System\Framework\Cli\App();
+$cliApp = new O2System\Reactor\Cli\App();
 $cliApp
     ->setWelcomeNote( ( new \O2System\Kernel\Cli\Writers\Text )
         ->setContextualClass( \O2System\Kernel\Cli\Writers\Text::DANGER )
