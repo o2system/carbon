@@ -111,6 +111,19 @@ if ( ! defined( 'DIR_RESOURCES' ) ) {
 
 /*
  *---------------------------------------------------------------
+ * DATABASE FOLDER NAME
+ *---------------------------------------------------------------
+ *
+ * Database folder name.
+ *
+ * NO TRAILING SLASH!
+ */
+if ( ! defined( 'DIR_DATABASE' ) ) {
+    define( 'DIR_DATABASE', 'database' );
+}
+
+/*
+ *---------------------------------------------------------------
  * PUBLIC FOLDER NAME
  *---------------------------------------------------------------
  *
@@ -161,6 +174,6 @@ require __DIR__ . '/vendor/autoload.php';
  * STARTUP O2SYSTEM
  * ------------------------------------------------------
  */
-if ( class_exists( 'O2System\Reactor', false ) ) {
-    O2System\Reactor::getInstance();
+if ( class_exists( 'O2System\Framework', false ) ) {
+    O2System\Framework::getInstance();
 }
