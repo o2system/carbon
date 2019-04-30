@@ -10,7 +10,7 @@
  */
 // ------------------------------------------------------------------------
 
-use O2System\Cache\Datastructures\Config;
+use O2System\Cache\DataStructures\Config;
 
 /**
  * Cache ItemPools Configuration
@@ -19,7 +19,7 @@ use O2System\Cache\Datastructures\Config;
  *
  * @see https://github.com/o2system/cache/wiki
  *
- * @var \O2System\Cache\Datastructures\Config
+ * @var \O2System\Cache\DataStructures\Config
  */
 $cache = new Config(
     [
