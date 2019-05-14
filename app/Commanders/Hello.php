@@ -84,7 +84,7 @@ class Hello extends Commander
      */
     public function execute()
     {
-        parent::execute();
+        $this->__callOptions();
 
         output()->write('Hello !');
     }
