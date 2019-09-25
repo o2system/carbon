@@ -1,4 +1,4 @@
-[![O2System Framework](http://o2system.id/assets/img/logo/logo-white-200px.png?logo)](http://o2system.id)
+[![O2System Framework](http://o2system.id/assets/img/logo/logo-200px.png?logo)](http://o2system.id)
 
 [![Build Status](https://travis-ci.org/o2system/carbon.svg?branch=master)](https://travis-ci.org/o2system/carbon)
 [![Build Status](https://scrutinizer-ci.com/g/o2system/carbon/badges/build.png?b=master)](https://scrutinizer-ci.com/g/o2system/carbon/build-status/master)
