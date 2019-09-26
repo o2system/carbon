@@ -7,9 +7,9 @@
 [![Total Downloads](https://poser.pugx.org/o2system/carbon/downloads)](https://packagist.org/packages/o2system/hydro)
 [![License](https://poser.pugx.org/o2system/carbon/license)](https://packagist.org/packages/o2system/hydro)
 
-# O2System Framework Web-Restful Application Boilerplate 
+# O2System Framework CLI Application Boilerplate 
 
-O2System Framework Web-Restful Application Boilerplate  is for those who likes to make Web-Resfull application from scratch, build your project with this boilerplate.
+O2System Framework Command Line Interface (CLI) Application Boilerplate  is for those who likes to make cli application from scratch, build your project with this boilerplate.
 
 
 ### Composer Installation
