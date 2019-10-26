@@ -1,7 +1,7 @@
 {
     "name": "o2system/carbon",
     "description": "O2System Framework Command Line Interface Application Boilerplate.",
-    "keywords": ["framework", "o2system"],
+    "keywords": ["framework", "o2system", "cli", "carbon"],
     "license": "MIT",
     "type": "project",
     "require": {
