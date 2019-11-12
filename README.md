@@ -7,7 +7,7 @@
 [![Total Downloads](https://poser.pugx.org/o2system/carbon/downloads)](https://packagist.org/packages/o2system/carbon)
 [![License](https://poser.pugx.org/o2system/carbon/license)](https://packagist.org/packages/o2system/carbon)
 
-# O2System Restful Project Boilerplate
+# O2System Command Line Interface (CLI) Project Boilerplate
 
 O2System Carbon is a starter project boilerplate for building multipurposes command line interface application using reactor a stunningly fast PHP micro-framework by O2System.
 
