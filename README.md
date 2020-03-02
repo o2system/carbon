@@ -1,4 +1,4 @@
-![alt text](https://www.o2system.id/assets/img/covers/cover-o2system-carbon.png "O2System Carbon")
+![alt text](https://repository-images.githubusercontent.com/119346196/e46a1600-5c9d-11ea-80d2-42c86d988fc4 "O2System Carbon CLI Project Boilerplate")
 
 
 [![Build Status](https://travis-ci.org/o2system/carbon.svg?branch=master)](https://travis-ci.org/o2system/carbon)
