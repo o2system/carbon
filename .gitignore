@@ -1,4 +1,6 @@
 .idea
-*/.DS_Store
-cache
-vendor/
+.composer.lock
+.DS_Store
+/cache
+/app/Config/Development
+/vendor

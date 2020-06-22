@@ -174,6 +174,6 @@ require __DIR__ . '/vendor/autoload.php';
  * STARTUP O2SYSTEM
  * ------------------------------------------------------
  */
-if ( class_exists( 'O2System\Reactor', false ) ) {
-    O2System\Reactor::getInstance();
+if ( class_exists( 'O2System\Framework', false ) ) {
+    O2System\Framework::getInstance();
 }

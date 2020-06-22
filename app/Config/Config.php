@@ -36,7 +36,17 @@ $config[ 'charset' ] = 'UTF-8';
  *
  * @var array
  */
-$config[ 'language' ] = 'en-US';
+$config[ 'language' ][ 'default' ] = 'en-US';
+
+/**
+ * Language Options
+ *
+ * @var array
+ */
+$config[ 'language' ][ 'options' ] = [
+    'en-US' => 'English (United States)',
+    'id-ID' => 'Bahasa Indonesia'
+];
 
 /**
  * DateTime Timezone

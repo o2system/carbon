@@ -18,7 +18,7 @@ namespace App\Cli;
  * Class Commander
  * @package App\Cli
  */
-class Commander extends \O2System\Reactor\Cli\Commander
+class Commander extends \O2System\Framework\Cli\Commander
 {
 
 }
